@@ -1,0 +1,25 @@
+name: clearing
+boundleftx: -5
+boundrightx: 1198
+boundUpY: 0
+boundDownY: 665
+right exit: false
+right name: null
+rExitX1: 1110
+rExitX2: 1168
+rExitY1: 635
+rExitY2: 680
+left exit: true
+left name: forest
+lExitX1: -15
+lExitX2: -15
+lExitY1: 415
+lExitY2: 620
+up exit: true
+up name: end
+uExitX1: 545
+uExitX2: 675
+uExitY1: 100
+uExitY2: 0
+char startx: 20
+char starty: 525

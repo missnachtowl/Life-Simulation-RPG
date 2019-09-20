@@ -1,0 +1,25 @@
+name: forest
+boundleftx: 625
+boundrightx: 1135
+boundUpY: 564
+boundDownY: 665
+right exit: true
+right name: clearing
+rExitX1: 1158
+rExitX2: 1171
+rExitY1: 564
+rExitY2: 665
+left exit: true
+left name: outsideHouseRPG
+lExitX1: -15
+lExitX2: 0
+lExitY1: 565
+lExitY2: 665
+up exit: false
+up name: null
+uExitX1: 0
+uExitX2: 0
+uExitY1: 0
+uExitY2: 0
+char startx: 0
+char starty: 625

@@ -1,0 +1,10 @@
+name: sign
+xR: 275
+xL: 380
+yT: 160
+yB: 180
+hunger: 0
+bladder: 0
+hygiene: 0
+sleep: 0
+social: 0

@@ -1,0 +1,25 @@
+name: outsideHouseOpened
+boundleftx: 70
+boundrightx: 1070
+boundUpY: 110
+boundDownY: 660
+right exit: true
+right name: forestBeg
+rExitX1: 1076
+rExitX2: 1140
+lExitY1: 565
+lExitY2: 660
+left exit: true
+left name: townsquareOpened
+lExitX1: -10
+lExitX2: 30
+lExitY1: 565
+lExitY2: 660
+up exit: true
+up name: insideHouseOpened
+uExitX1: 290
+uExitX2: 450
+uExitY1: 475
+uExitY2: 290
+char startx: 10
+char starty: 630

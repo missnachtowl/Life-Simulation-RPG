@@ -1,0 +1,45 @@
+TimeSaved: 2018/12/16 03:12:17
+Name: M
+Gender: girl
+Current Env: outsideHouseTutorial
+xCoordinate: 370
+yCoordinate: 530
+posture: front
+Hunger: 107
+Bladder: 107
+Hygiene: 107
+Sleep: 107
+Social: 107
+Day: 1
+Hour: 1
+Minute: 00
+am or pm: PM
+exitedHouse: false
+exitedHouseScene: false
+tutorialFinished: false
+hunger1: true
+hunger2: true
+hunger3: true
+hunger4: true
+hunger5: true
+bladder1: true
+bladder2: true
+bladder3: true
+bladder4: true
+bladder5: true
+hygiene1: true
+hygiene2: true
+hygiene3: true
+hygiene4: true
+hygiene5: true
+hygiene6: true
+social1: true
+social2: true
+social3: true
+social4: true
+social5: true
+sleep1: true
+sleep2: true
+sleep3: true
+sleep4: true
+sleep5: true

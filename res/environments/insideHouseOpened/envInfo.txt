@@ -1,0 +1,25 @@
+name: insideHouseOpened
+boundleftx: 265
+boundrightx: 910
+boundUpY: 230
+boundDownY: 640
+right exit: true
+right name: outsideHouseOpened
+rExitX1: 910
+rExitX2: 930
+rExitY1: 550
+rExitY2: 640
+left exit: false
+left name: null
+lExitX1: 0
+lExitX2: 0
+lExitY1: 0
+lExitY2: 0
+up exit: false
+up name: null
+uExitX1: 0
+uExitX2: 0
+uExitY1: 0
+uExitY2: 0
+char startx: 920
+char starty: 605

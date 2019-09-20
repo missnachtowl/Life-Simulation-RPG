@@ -1,0 +1,25 @@
+name: forestEnd
+boundleftx: -15
+boundrightx: 1135
+boundUpY: 564
+boundDownY: 665
+right exit: true
+right name: forest
+rExitX1: 1168
+rExitX2: 1175
+rExitY1: 564
+rExitY2: 665
+left exit: false
+left name: forest
+lExitX1: -15
+lExitX2: 0
+lExitY1: 565
+lExitY2: 665
+up exit: false
+up name: null
+uExitX1: 0
+uExitX2: 0
+uExitY1: 0
+uExitY2: 0
+char startx: 0
+char starty: 625
