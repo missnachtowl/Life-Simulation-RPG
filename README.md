@@ -1,12 +1,12 @@
 # Life-Simulation-RPG
 Year long project pursued in high school, inspired by games like The Sims and Pokemon
 
-Accomplished Features:
+# Accomplished Features:
 - multiple saves system
 - in-game cutscenes
 - real-time clock
 - choose character option
-- battle ui
+- battle UI
 - character needs systems (life simulation needs: bladder, sleep, etc.)
 - interactable npc characters
 
