@@ -1,7 +1,7 @@
 # Life-Simulation-RPG
 Year long project pursued in high school, inspired by games like The Sims and Pokemon
 
-# Accomplished Features:
+## Accomplished Features:
 - multiple saves system
 - in-game cutscenes
 - real-time clock
